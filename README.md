@@ -1,1 +1,2 @@
-# ai_video_projects
+### AI Video Projects
+by Jonathan Kunkel (@kunkelino)
